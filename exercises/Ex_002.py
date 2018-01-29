@@ -1,8 +1,8 @@
 print('########## Exercícios de Pyhton ##########')
-print('##########    Exercício  002    ##########')
-
-real_number = float(input('Digite um número real: '))
-print('A parte inteira do número {} é {}'.format(real_number, int(real_number)))
-
+print('##########    Exercício  003    ##########')
+nome = input('Digite o seu nome: ')
+print ('É um prazer te conhecer {}'.format(nome))
 print('##########################################')
 print('##########################################')
+
+
