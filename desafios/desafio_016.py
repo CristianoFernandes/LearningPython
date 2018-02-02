@@ -1,0 +1,5 @@
+print('#' * 42)
+print('#' * 15, 'DESAFIO 016', '#' * 15)
+numero = float(input('Digite um número float: '))
+print('A parte inteira do número ', numero, 'é: ', int(numero))
+print('#' * 42)
