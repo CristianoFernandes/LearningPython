@@ -1,0 +1,5 @@
+print('########## Exercícios de Python ##########')
+print('##########    Exercício  013    ##########')
+salario = float(input('Digite o salário do funcionário: R$'))
+reajuste = float(input('Digite o percentual para reajuste: '))
+print('O salário do funcionário reajustado em {}% será de R${}'.format(reajuste, salario + (salario * reajuste / 100)))
