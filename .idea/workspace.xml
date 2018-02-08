@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc24f6d8-0dc1-4a8f-9bfc-9f6d46252b3d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/MQTT/MQTT_cli_subs1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercises/Ex_014.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercises/Ex_015.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/desafios/desafio_022.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/exercises/Ex_015.py" afterPath="$PROJECT_DIR$/exercises/Ex_015.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ex_003.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercises/Ex_003.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Ex_004.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/Ex_004.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ex_015.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ex_015.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercises/Ex_015.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="280">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="desafio_022.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/desafios/desafio_022.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -151,6 +150,7 @@
         <option value="$PROJECT_DIR$/MQTT/MQTT_cli_subs1.py" />
         <option value="$PROJECT_DIR$/exercises/Ex_014.py" />
         <option value="$PROJECT_DIR$/exercises/Ex_015.py" />
+        <option value="$PROJECT_DIR$/desafios/desafio_022.py" />
       </list>
     </option>
   </component>
@@ -216,25 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex_015">
-    <configuration name="Ex_012" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearningPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/Ex_012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.desafio_022">
     <configuration name="Ex_013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,20 +289,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="desafio_022" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearningPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio_022.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Ex_012" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Ex_013" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MQTT_cli_subs1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Ex_014" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Ex_015" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Ex_013" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MQTT_cli_subs1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Ex_014" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Ex_015" />
+      <item index="4" class="java.lang.String" itemvalue="Python.desafio_022" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Ex_015" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Ex_014" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MQTT_cli_subs1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Ex_013" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Ex_012" />
+        <item index="0" class="java.lang.String" itemvalue="Python.desafio_022" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Ex_015" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Ex_014" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MQTT_cli_subs1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Ex_013" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517863785557</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Exercicio 15 do curso de Python.">
+      <created>1518122918471</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518122918471</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -426,7 +433,8 @@
     <MESSAGE value="Exercicio 11 do curso de Python." />
     <MESSAGE value="Exercicio 12 do curso de Python." />
     <MESSAGE value="Exercicio 13 do curso de Python." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 13 do curso de Python." />
+    <MESSAGE value="Exercicio 15 do curso de Python." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 15 do curso de Python." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -434,13 +442,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercises/Ex_002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/Ex_001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -809,8 +810,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/Ex_015.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="280">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/desafio_022.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>

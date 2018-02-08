@@ -18,5 +18,6 @@ print(word1[0])
 print(word1[1])
 print(word1[2])
 print(word1[3])
+print(word1)
 print("""Olá! Estou printando um texto grande aqui, vamos ver se funciona
          Será que vai? """)
