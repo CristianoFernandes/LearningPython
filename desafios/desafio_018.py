@@ -1,5 +1,5 @@
 print('#' * 43)
-print('#' * 15, 'DESAFIO 017', '#' * 15)
+print('#' * 15, 'DESAFIO 018', '#' * 15)
 import math
 
 angulo = int(input('Digite a medida do ângulo: '))

@@ -1,3 +1,6 @@
+print('#' * 42)
+print('#' * 15, 'Exercício 015', '#' * 15)
+
 frase = '      Curso em video Python    '
 print(len(frase))
 print(frase.count('o'))
@@ -21,3 +24,5 @@ print(word1[3])
 print(word1)
 print("""Olá! Estou printando um texto grande aqui, vamos ver se funciona
          Será que vai? """)
+
+print('#' * 42)
