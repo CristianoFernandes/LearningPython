@@ -1,0 +1,5 @@
+print('#' * 45)
+print('#' * 15, 'Exercício 024', '#' * 15)
+cidade = str(input('Digite o nome da cidade que você nasceu: ')).strip()
+print(cidade[:5].upper() == 'SANTO')
+print('#' * 45)
