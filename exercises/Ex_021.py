@@ -5,11 +5,9 @@ from pygame import mixer
 import time
 
 mixer.init()
-
 mixer.music.load('music.mp3')
+print('Playing music...')
 mixer.music.play()
-end = mixer.music.get_endevent()
-
-time.sleep(240)
+time.sleep(60)
 
 print('#' * 45)
