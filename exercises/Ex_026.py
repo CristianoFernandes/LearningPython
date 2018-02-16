@@ -1,4 +1,8 @@
 print('#' * 45)
 print('#' * 15, 'Exercício 026', '#' * 15)
-
+frase = str(input('Digite uma frase qualquer: ')).strip()
+print(frase)
+print('O tamanho da frase é de {} caracteres.'.format(len(frase)))
+letra = str(input('Digite a letra a ser pesquisada: ')).strip().lower()
+print('A letra \'{}\' aparece {} vezes na sua frase'.format(letra, frase.lower().count(str(letra))))
 print('#' * 45)

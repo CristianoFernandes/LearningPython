@@ -2,7 +2,6 @@ print('#' * 45)
 print('#' * 15, 'Exercício 021', '#' * 15)
 
 from pygame import mixer
-
 import time
 
 mixer.init()
