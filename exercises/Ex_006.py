@@ -1,5 +1,5 @@
 print('########## Exercícios de Python ##########')
-print('##########    Exercício  005    ##########')
+print('##########    Exercício  006    ##########')
 import math
 
 mainNumber = int(input('Digite um número qualquer: '))

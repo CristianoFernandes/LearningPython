@@ -1,5 +1,6 @@
 print('#' * 45)
 print('#' * 15, 'Exercício 028', '#' * 15)
+
 import random
 
 numero = int(random.randint(1, 5))
