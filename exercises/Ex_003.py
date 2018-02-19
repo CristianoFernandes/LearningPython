@@ -1,10 +1,7 @@
-import colorize
-
-print(colorize.
-'########## Exercícios de Pyhton ##########')
-print('##########    Exercício  003    ##########')
-num = int(input('Digite um número qualquer \n'))
-num2 = int(input('Digite outro nuúmero \n'))
-print('A soma entre {} e {} é {}'.format(num, num2, (num + num2)))
-print('##########################################')
-print('##########################################')
+print('\033[7;30m########## Exercícios de Pyhton ##########\033[m')
+print('\033[0;31m##########    Exercício  003    ##########\033[m')
+num = int(input('\033[7;32mDigite um número qualquer \033[m\n'))
+num2 = int(input('\033[1;32;41mDigite outro número \033[m\n'))
+print('\033[7;32mA soma entre {} e {} é {}\033[m'.format(num, num2, (num + num2)))
+print('\033[0;31m##########################################\033[m')
+print('\033[7;30m##########################################\033[m')
