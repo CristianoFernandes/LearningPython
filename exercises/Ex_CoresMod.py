@@ -14,7 +14,7 @@
 # 36 - ciano         46 -
 # 37 - cinza         47 -
 
-cores = {
+coresletras = {
     'vermelho': '\033[0;31m',
     'verde': '\033[1;32m',
     'amarelo': '\033[3;33m',
@@ -22,3 +22,21 @@ cores = {
     'roxo': '\033[0;35m',
     'ciano': '\033[1;36m',
     'cinza': '\033[7;37m'}
+
+coresback = {
+    'vermelho': '\033[0;41m',
+    'verde': '\033[0;42m',
+    'amarelo': '\033[0;43m',
+    'azul': '\033[0;444m',
+    'roxo': '\033[0;45m',
+    'ciano': '\033[0;46m',
+    'cinza': '\033[0;47m'}
+
+coresneg = {
+    'vermelho': '\033[7;41m',
+    'verde': '\033[7;42m',
+    'amarelo': '\033[7;43m',
+    'azul': '\033[7;444m',
+    'roxo': '\033[7;45m',
+    'ciano': '\033[7;46m',
+    'cinza': '\033[7;47m'}
